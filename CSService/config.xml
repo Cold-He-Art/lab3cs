@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <appSettings>
+    <sourceFolder>C:\2\sdir</sourceFolder>
+    <targetFolder>C:\2\tdir</targetFolder>
+    <archiveFolder>C:\2\tdir\tarchive</archiveFolder>
+  </appSettings>
+</Options>
